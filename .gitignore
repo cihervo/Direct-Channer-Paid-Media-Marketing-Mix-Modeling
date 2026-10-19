@@ -1,0 +1,11 @@
+# Ignorar copias de seguridad automáticas de Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Ignorar archivos ocultos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar entornos virtuales (si llegas a usarlos en el futuro)
+venv/
+env/
