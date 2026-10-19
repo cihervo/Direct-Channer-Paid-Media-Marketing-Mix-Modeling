@@ -154,6 +154,6 @@ hotel-mmm-forecast/
    ```
 
 ---
-*Author / Autor:* **[Tu Nombre / Your Name]**  
+*Author / Autor:* *Cesar Hernandez  *
 *Specialization:* Marketing Analytics | Paid Media Strategy | Revenue Econometrics  
-*Connect on LinkedIn / Conecta en LinkedIn:* [LinkedIn Profile URL]
+*Connect on LinkedIn / Conecta en LinkedIn:* [[LinkedIn Profile URL]](https://www.linkedin.com/in/cesar-hernandez-marketing-digital)
